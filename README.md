@@ -1,46 +1,77 @@
+Hola Amigo!!!
+<h1 align="center">Hi, I'm Shubham Kumar 👋</h1>
 
-# I'm Hardik pawar 👋
-
-<h1 align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?color=ffffff&lines=Hola+Amigos+😎;Gamer+obviously🎮;Game+Developer+✨;Nice+To+Meet+You+....">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?color=000000&lines=Hola+Amigos+😎;Gamer+obviously🎮;Game+Developer+✨;Nice+To+Meet+You+....">
-    <img alt="Hola Amigos 😎; Mobile developer📱 ; Nice To Meet You...." src="https://readme-typing-svg.herokuapp.com?color=000000&lines=Hola+Amigos+😎;Nice+To+Meet+You+....">
-  </picture>
-</h1>
-
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJpeWpzNzFram14b3RpdmpmYmFsdGFtZDY5ZzQzeDdjYnRudHljbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/X8WXNdX1neJXhwJc4W/giphy.webp" width="15%" align="left">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Sayan-Dev731&color=brightgreen)
-
-### Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/hardik-pawar-971616250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
-  <a href="hardikpawar2811@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-</p>
-
-## Technologies & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/-Flutter-478CBF?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Dart-00599C?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Firebase-007396?style=for-the-badge&logo=firebase&logoColor=orange" />
-  <img src="https://img.shields.io/badge/-nodejs-239120?style=for-the-badge&logo=nodejs&logoColor=white" />
-</p>
-
-## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hardikk1308&show_icons=true&theme=radical" alt="Hardik's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardikk1308&layout=compact&theme=radical" alt="Top Languages" width="38%"/>
+  <a href="https://www.linkedin.com/in/hardik-pawar-971616250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/Shubham241424"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://shubham66020.github.io/My_Website/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnlxZDhkeXg2aTBwN2o1bm1yNDYwY3Nmb29hMTVlcXZ0YXhoMjVuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/z0hUv6bpBWUUOtShDf/giphy.webp" width="20%" align="right">
 
-## Achievements
+<p align="center">📧 sy6207972@gmail.com | 📱 6207972767</p>
+
+---
+
+### 💻 Technical Skills
+#### Languages
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### Libraries
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0176C1?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+#### Development
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![AI Tools](https://img.shields.io/badge/AI_Tools-ffca28?style=for-the-badge)
+![Prompting](https://img.shields.io/badge/Prompting-ffca28?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-ffca28?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-ffca28?style=for-the-badge)
+![Responsible AI](https://img.shields.io/badge/Responsible_AI-ffca28?style=for-the-badge)
+
+#### Computer Science
+- Computer networks
+- Operating system
+- Basics of Electronic Engineering
+
+#### Machine Learning
+- Basics of Machine Learning
+- Deep Learning
+- Basics of Python
+
+#### Social Skills
+- Good Communication skills
+- Team building
+
+---
+
+### 🌐 Projects
+1. **[Goinvesto](https://goinvesto.com/)** - Working on a startup.
+
+---
+
+### 🏅 Extracurricular Activities
+- Active coder in the coding club (INFINITY CODER) of my college.
+- Participated in various hackathons and coding competitions.
+
+---
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sayan-Dev731&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayan-Dev731&theme=radical" alt="GitHub Streak" />
+  <img src="https://komarev.com/ghpvc/?username=Shubham66020&style=for-the-badge&color=blue" alt="Profile Views" />
 </p>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjd0YzU0MG1rd2tjMDFjb3k2M3JlNWp2ZHJuMGxxcmZwc2VhOWsxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pd0HQOQN71YHtkXSu3/giphy.webp" width="15%" align="right">
 
-## Contribution Snake
-![GitHub Snake Light](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham66020&theme=blueberry" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubham66020&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham66020&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+
