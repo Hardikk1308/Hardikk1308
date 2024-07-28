@@ -16,7 +16,7 @@ Hola Amigo!!!
 ![Flutter](https://img.shields.io/badge/flutter-00599C?style=for-the-badge&logo=flutter&logoColor=white)
 ![dart](https://img.shields.io/badge/dart-00599C?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-3776AB?style=for-the-badge&logo=firebase&logoColor=orange)
-![Nodejs](https://img.shields.io/badge/nodejs-00599C?style=for-the-badge&logo=Nodejs&logoColor=green)
+<img src="https://img.shields.io/badge/-Nodejs-007396?style=for-the-badge&logo=nodejs&logoColor=green" />
 
 
 #### Computer Science
