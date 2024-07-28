@@ -1,10 +1,10 @@
 Hola Amigo!!!
-<h1 align="center">Hi, I'm Shubham Kumar 👋</h1>
+<h1 align="center">Hi, I'm Hardik Pawar 👋</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hardik-pawar-971616250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/Shubham241424"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://shubham66020.github.io/My_Website/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://x.com/Hardikpawar1308?t=vJEI87Tq2ctcn88ZdhdjIA&s=08"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<!--   <a href="https://shubham66020.github.io/My_Website/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a> -->
 </p>
 
 <p align="center">📧 sy6207972@gmail.com | 📱 6207972767</p>
